@@ -4,7 +4,7 @@ import About from '../views/AboutView.vue'
 import resume from '../views/ResumeView.vue'
 import contact from '../views/ContactView.vue'
 import services from '../views/servicesView.vue'
-import portfolio from '../views/PortfoilioView.vue'
+import portfolio from '../views/PortfolioView.vue'
 
 const routes = [
   {

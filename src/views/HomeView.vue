@@ -8,7 +8,7 @@
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       <h2>I'm a passionate <span>Full-stack developer</span> from Cape Town</h2>
 
-      <nav id="navbar" class="navbar">
+      <!-- <nav id="navbar" class="navbar">
         <ul>
           <li><router-link to="/" class="nav-link active">Home</router-link></li>
           <li><router-link to="/about" class="nav-link ">About</router-link></li>
@@ -18,14 +18,14 @@
           <li><router-link to="/contact" class="nav-link">Contact</router-link></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav> -->
 
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-      </div>
+          <!-- GitHub icon -->
+          <a href="#" class="github"><i class="bi bi-github"></i></a>
+          <!-- LinkedIn icon -->
+          <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        </div>
 
     </div>
   </header>
@@ -37,7 +37,7 @@
 
 
 </script>
-<style>
+<style scoped>
 
 
 </style>
