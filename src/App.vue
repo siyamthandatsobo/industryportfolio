@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <nav id="navbar" class="navbar">
+    <nav id="navbar" class="navbar container">
         <ul>
           <li><router-link to="/" class="nav-link active">Home</router-link></li>
           <li><router-link to="/about" class="nav-link ">About</router-link></li>

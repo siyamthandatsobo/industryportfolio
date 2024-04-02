@@ -559,7 +559,7 @@ section .container {
 
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  min-height: 320px;
+  min-height: 100px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -612,6 +612,8 @@ section .container {
   border-radius: 6px;
   position: relative;
   z-index: 1;
+  max-width: 400px; /* Adjust the max-width as needed */
+  word-wrap: break-word; /* Force text wrapping */
 }
 
 .testimonials .swiper-pagination {

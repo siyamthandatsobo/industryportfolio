@@ -137,100 +137,178 @@
       </div><!-- End Interests -->
 
       <!-- ======= Testimonials ======= -->
-      <div class="testimonials container">
-        <div class="section-title">
-          <h2>Testimonials</h2>
-        </div>
-        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-            <!-- Your testimonials here -->
-            <div class="testimonial-item">
-          <p>
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <img src="https://i.ibb.co/Nmg0XwP/croppped-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
-        </div>
-        <div class="testimonial-item">
-          <p>
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <img src="https://i.ibb.co/Nmg0XwP/croppped-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
-        </div>
-        <div class="testimonial-item">
-          <p>
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <img src="https://i.ibb.co/Nmg0XwP/croppped-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
-        </div>
-        <div class="testimonial-item">
-          <p>
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <img src="https://i.ibb.co/Nmg0XwP/croppped-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
-        </div>
-        <div class="testimonial-item">
-          <p>
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <img src="https://i.ibb.co/Nmg0XwP/croppped-1.jpg" class="testimonial-img" alt="">
-          <h3>Saul Goodman</h3>
-          <h4>Ceo &amp; Founder</h4>
-        </div>
+      <!-- Testimonials Section -->
+<!-- Testimonials Section -->
+<div class="testimonials container">
+  <div class="section-title">
+    <h2>Testimonials</h2>
+  </div>
 
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-      </div><!-- End Testimonials  -->
+  <!-- Testimonials Slider -->
+  <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+    <div class="swiper-wrapper">
+      <!-- Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+      <div class="swiper-slide">
+        <!-- Testimonial Item 1 -->
+        <div class="testimonial-item">
+          <!-- Testimonial Content -->
+          <p>
+            <!-- Quote Icon -->
+            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+            <!-- End Quote Icon -->
+            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+          </p>
+          <!-- Testimonial Image -->
+          <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+          <!-- Testimonial Author -->
+          <h3>Saul Goodman</h3>
+          <h4>Ceo &amp; Founder</h4>
+        </div><!-- End Testimonial Item 1 -->
+      </div><!-- End Testimonial Slide 1 -->
+
+      <!-- Repeat similar structure for other testimonials -->
+
+    </div><!-- End Swiper Wrapper -->
+
+    <!-- Pagination -->
+    <div class="swiper-pagination"></div>
+  </div><!-- End Testimonials Slider -->
+
+  <!-- Testimonials Carousel (Optional) -->
+  <div class="owl-carousel testimonials-carousel">
+    <!-- Carousel Items -->
+  </div><!-- End Testimonials Carousel -->
+
+</div><!-- End Testimonials Container -->
+
+
     </section>
   </div>
 </template>
 
 <script>
-import Swiper from 'swiper';
+
+
+
 
 export default {
   mounted() {
-    // Initialize Swiper
-    const swiper = new Swiper('.testimonials-slider', {
-      // Optional parameters
-      direction: 'horizontal',
+    new Swiper('.testimonials-slider', {
+      speed: 600,
       loop: true,
-
-      // If you need pagination
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: false
+      },
+      slidesPerView: 'auto',
       pagination: {
         el: '.swiper-pagination',
+        type: 'bullets',
+        clickable: true
       },
-
-      // Navigation arrows
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-
-      // And if we need scrollbar
-      scrollbar: {
-        el: '.swiper-scrollbar',
-      },
+      breakpoints: {
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 20
+        },
+        1200: {
+          slidesPerView: 3,
+          spaceBetween: 20
+        }
+      }
     });
-  },
+  }
 };
 </script>
 
