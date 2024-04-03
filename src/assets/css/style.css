@@ -16,11 +16,15 @@ body {
   position: relative;
   background: transparent;
 }
+.img{
+  width:150px;
+  height:150px;
+}
 
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url('../img/siyamthanda-modified-Photoroom.jpg') top right no-repeat;
+  background: #040404 url('../img/bg-Photoroom.jpg') top right no-repeat;
   background-size:cover;
   left: 0;
   right: 0;
@@ -28,6 +32,19 @@ body::before {
   height: 100vh;
   z-index: -1;
 
+}
+.overlay-image {
+  position: fixed;
+  background: url('../img/Tsobo.jpg') top right no-repeat;
+  background-size: cover; /* Adjust to make sure the image fits */
+  width: 500px; /* Set width as per your image size */
+  height: 500px; /* Set height as per your image size */
+  right: 20%; /* Position it in the middle horizontally */
+  top: 50%; /* Position it in the middle vertically */
+  transform: translate(50%, -50%); /* Center the image */
+  z-index: -1; /* Set a z-index lower than the body::before pseudo-element */
+  border:4px solid grey;
+  border-radius: 1%;
 }
 
 @media (min-width: 1024px) {
@@ -555,6 +572,10 @@ section .container {
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
+}
+.testimonial-img{
+  width:100px;
+  height: 100px;
 }
 
 .testimonials .testimonial-item {
@@ -1190,4 +1211,37 @@ section .container {
 
 .credits a:hover {
   color: #fff;
+}
+
+/* Your custom styles here */
+.skill-box {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+.skill-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skill-title .img {
+  width: 50px; /* Adjust as needed */
+}
+
+.skill-title h3 {
+  margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .skill-title {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .skill-title .img {
+    margin-bottom: 10px;
+    width: 100%; /* Adjust as needed */
+  }
 }

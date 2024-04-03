@@ -6,7 +6,7 @@
       <h1><a href="index.html">Siyamthanda Tsobo</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      <h2>I'm a passionate <span>Full-stack developer</span> from Cape Town</h2>
+      <h2 style=" font-weight: bolder;">I'm a passionate <span>Full-stack developer</span> from Cape Town</h2>
 
       <!-- <nav id="navbar" class="navbar">
         <ul>
@@ -25,6 +25,9 @@
           <a href="#" class="github"><i class="bi bi-github"></i></a>
           <!-- LinkedIn icon -->
           <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+        </div>
+        <div class="overlay-image">
+
         </div>
 
     </div>

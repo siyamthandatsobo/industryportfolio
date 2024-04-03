@@ -11,56 +11,62 @@
         <div class="col-lg-6">
           <h3 class="resume-title">Sumary</h3>
           <div class="resume-item pb-0">
-            <h4>Alice Barkley</h4>
-            <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+            <h4>Siyamthanda Tsobo</h4>
+            <p><em>Goal-orientated full-stack developer specializing in various modernly used technologies</em></p>
             <p>
             <ul>
-              <li>Portland par 127,Orlando, FL</li>
-              <li>(123) 456-7891</li>
-              <li>alice.barkley@example.com</li>
+              <li>ikhwezi park,Khayelitsha, Cape Town</li>
+              <li>(+27) 67226-5196</li>
+              <li>siyamthandatsobo@gmail.com</li>
             </ul>
             </p>
           </div>
 
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
-            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-            <h5>2015 - 2016</h5>
-            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-            <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+            <h4>HIGH SCHOOL Matric Certificate</h4>
+            <h5>2022</h5>
+            <p><em>Spes bona high ,athlone, SOUTH AFRICA</em></p>
+            <p>I completed my matric studies and showed proficiency in the STEM field</p>
           </div>
           <div class="resume-item">
-            <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-            <h5>2010 - 2014</h5>
-            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-            <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+            <h4>Applications development</h4>
+            <h5>2021</h5>
+            <p><em>MTN BUSSINESS APP ACADEMY/ IT VARSITY, SOUTH AFRICA</em></p>
+            <p>Underwent training in Android app development for 6 weeks using KOTLIN development language</p>
+          </div>
+          <div class="resume-item">
+            <h4>Full-stack development</h4>
+            <h5>2023-2024</h5>
+            <p><em>Life choices Academy, Cape town, SOUTH AFRICA</em></p>
+            <p>I have underwent 6 months of training as a full-stack developer which has improved my analytical skills ,and also soft skills training</p>
           </div>
         </div>
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
-            <h4>Senior graphic design specialist</h4>
-            <h5>2019 - Present</h5>
-            <p><em>Experion, New York, NY </em></p>
+            <h4>Life Choices Studio Intern</h4>
+            <h5>2024 - Present</h5>
+            <p><em>CLAREMONT, CAPE TOWN, RSA </em></p>
             <p>
             <ul>
-              <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-              <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-              <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-              <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+              <li>Proficiency in Javascript,Node,VUEjs,Bootstrap,MYSQL</li>
+              <li>Understanding of software development lifecycle and best practices.</li>
+              <li>Demonstrated strong problem-solving skills and adaptability in learning new technologies and methodologies.</li>
+              <li>Received positive feedback from team members for proactive attitude and willingness to take on new challenges</li>
             </ul>
             </p>
           </div>
           <div class="resume-item">
-            <h4>Graphic design specialist</h4>
-            <h5>2017 - 2018</h5>
-            <p><em>Stepping Stone Advertising, New York, NY</em></p>
+            <h4>Call centre Agent</h4>
+            <h5>2023</h5>
+            <p><em>Call centre International, Wynberg, CPT</em></p>
             <p>
             <ul>
-              <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-              <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-              <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-              <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+              <li>Answered inbound calls promptly and professionally, addressing customer inquiries, concerns, and requests.</li>
+              <li>Provided expert assistance and support to customers, troubleshooting technical issues and guiding them through solutions.</li>
+              <li>Resolved customer complaints effectively, ensuring high levels of satisfaction and retention</li>
+              <li>Collaborated with team members and other departments to streamline processes and improve customer service delivery.</li>
             </ul>
             </p>
           </div>
