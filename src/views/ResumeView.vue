@@ -5,6 +5,8 @@
       <div class="section-title">
         <h2>Resume</h2>
         <p>Check My Resume</p>
+        <a href="https://drive.google.com/file/d/12Vr4d3eXXONdw-O9GUKXfq1JPuNkVesS/view?usp=sharing" download="siyamthandaTsoboCV.pdf" class="btn btn-primary">Download Resume</a>
+
       </div>
 
       <div class="row">
@@ -24,6 +26,12 @@
 
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
+            <h4>Full-stack development</h4>
+            <h5>2023-2024</h5>
+            <p><em>Life choices Academy, Cape town, SOUTH AFRICA</em></p>
+            <p>I have underwent 6 months of training as a full-stack developer which has improved my analytical skills ,and also soft skills training</p>
+          </div>
+          <div class="resume-item">
             <h4>HIGH SCHOOL Matric Certificate</h4>
             <h5>2022</h5>
             <p><em>Spes bona high ,athlone, SOUTH AFRICA</em></p>
@@ -35,12 +43,7 @@
             <p><em>MTN BUSSINESS APP ACADEMY/ IT VARSITY, SOUTH AFRICA</em></p>
             <p>Underwent training in Android app development for 6 weeks using KOTLIN development language</p>
           </div>
-          <div class="resume-item">
-            <h4>Full-stack development</h4>
-            <h5>2023-2024</h5>
-            <p><em>Life choices Academy, Cape town, SOUTH AFRICA</em></p>
-            <p>I have underwent 6 months of training as a full-stack developer which has improved my analytical skills ,and also soft skills training</p>
-          </div>
+         
         </div>
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
@@ -76,3 +79,36 @@
     </div>
   </section>
 </template>
+<script>
+export default {
+  methods: {
+    downloadResume() {
+      // Replace this with the actual link to your resume file
+      const resumeLink = 'https://drive.google.com/file/d/1ezDDE9BK2ux2kEECnSJMqtzI68IOAQT1/view?usp=sharing';
+
+      // Create a temporary anchor element to trigger the download
+      const downloadLink = document.createElement('a');
+      downloadLink.href = resumeLink;
+      downloadLink.download = 'Siyamthanda_Tsobo_Resume.pdf';
+      document.body.appendChild(downloadLink);
+      downloadLink.click();
+      document.body.removeChild(downloadLink);
+    }
+  }
+}
+</script>
+<style scoped>
+.btn {
+  display: inline-block;
+  background-color: white;
+  color:black;
+  padding: 5px 10px;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #18d26e;
+}
+</style>

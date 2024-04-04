@@ -20,7 +20,7 @@
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>14 Nov 2004</span></li>
-                  <!-- <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li> -->
+                  <li><i class="bi bi-chevron-right"></i> <strong>Hobbies:</strong> <span>Learning new skills</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+27 67226 5196</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Residence:</strong> <span>Khayelitsha Cape Town, RSA</span></li>
                 </ul>
@@ -104,7 +104,6 @@
             <img src="https://i.ibb.co/P1rc2Wb/icons8-html-100.png" alt="icons8-html-100" border="0">          </div>
           <h3>HTML</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -116,7 +115,6 @@
           </div>
           <h3>CSS</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -127,7 +125,6 @@
             <img src="https://i.ibb.co/6FCVr9R/icons8-javascript-144.png" alt="icons8-javascript-144" border="0">          </div>
           <h3>Javascript</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -138,7 +135,6 @@
             <img src="https://i.ibb.co/X3YPqjC/icons8-mysql-144.png" alt="icons8-mysql-144" border="0">          </div>
           <h3>Mysql</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -149,7 +145,6 @@
             <img src="https://i.ibb.co/J7GfgxW/icons8-nodejs-144.png" alt="icons8-nodejs-144" border="0">          </div>
           <h3>Node</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -160,7 +155,6 @@
             <img src="https://i.ibb.co/FXTR0mx/icons8-vuejs-128.png" alt="icons8-vuejs-128" border="0">          </div>
           <h3>Vue3</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -171,7 +165,6 @@
             <img src="https://i.ibb.co/f40JQcX/icons8-bootstrap-150.png" alt="icons8-bootstrap-150" border="0">       </div>
           <h3>Bootstrap</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -182,7 +175,6 @@
             <img src="https://i.ibb.co/BgZ2Bq3/icons8-git-100.png" alt="icons8-vuejs-128" border="0">          </div>
           <h3>Git</h3>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
       </div>
       <!-- Add similar blocks for other skills -->
     </div>
@@ -190,109 +182,128 @@
 </div>
 
       <!-- ======= Interests ======= -->
-      <div class="interests container">
-        <div class="section-title">
-          <h2>Interests</h2>
-        </div>
-        <div class="row">
-          <!-- Your interests icons here -->
-        </div>
-      </div><!-- End Interests -->
+      
 
       <!-- ======= Testimonials ======= -->
       <!-- Testimonials Section -->
-<!-- Testimonials Section -->
-<div class="testimonials container">
-  <div class="section-title">
-    <h2>Testimonials</h2>
-  </div>
+      <div class="testimonials container">
+    <div class="section-title">
+      <h2>Testimonials</h2>
+    </div>
 
-  <!-- Testimonials Slider -->
-  <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-    <div class="swiper-wrapper">
-      <!-- Testimonial Slide 1 -->
-      <div class="swiper-slide">
-        <!-- Testimonial Item 1 -->
-        <div class="testimonial-item">
-          <!-- Testimonial Content -->
-          <p>
-            <!-- Quote Icon -->
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            I had the pleasure of working with Siyamthanda on a coding project,and I must say thatI was impressed with her skills and ability to learn on her own.As somoene who is her peer.I can tell you that Siya's dedication and Passion for coding are unmatched. She is a fast learner ,and her attention to detail is impeccable"            <!-- End Quote Icon -->
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <!-- Testimonial Image -->
-          <img src="../assets/img/testimonials/sima.jpg" class="testimonial-img" alt="">
-          <!-- Testimonial Author -->
-          <h3>Simamkele Tancu</h3>
-          <h4>Colleague</h4>
-        </div><!-- End Testimonial Item 1 -->
-      </div><!-- End Testimonial Slide 1 -->
-      
-      <div class="swiper-slide">
-        <!-- Testimonial Item 1 -->
-        <div class="testimonial-item">
-          <!-- Testimonial Content -->
-          <p>
-            <!-- Quote Icon -->
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Siyamthanda is a creative,and well-behaved individual indidual who always prioritizes her work.She excels in collaborating with others and has gained profeciency in HTML5,CSS,and Bootstrap.Including Git and Github"            <!-- End Quote Icon -->
-            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <!-- Testimonial Image -->
-          <img src="../assets/img/testimonials/joel2.jpg" class="testimonial-img" alt="">
-          <!-- Testimonial Author -->
-          <h3>Joel Mukanya</h3>
-          <h4>Lecturer</h4>
-        </div><!-- End Testimonial Item 1 -->
-      </div><!-- End Testimonial Slide 1 -->
-      <div class="swiper-slide">
-        <!-- Testimonial Item 1 -->
-        <div class="testimonial-item">
-          <!-- Testimonial Content -->
-          <p>
-            <!-- Quote Icon -->
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            Siyamthanda is a cheerful, friendly individual who brightens any room. She has a contagious charisma that will never fail to make you smile. She has an outstanding work ethic and an intense focus on tasks and projects, and she will be a valuable member to any team."            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <!-- Testimonial Image -->
-          <img src="../assets/img/testimonials/spati.jpg" class="testimonial-img" alt="">
-          <!-- Testimonial Author -->
-          <h3>Sphatimandla Makhanya</h3>
-          <h4> Colleague</h4>
-        </div><!-- End Testimonial Item 1 -->
-      </div><!-- End Testimonial Slide 1 -->
-      <div class="swiper-slide">
-        <!-- Testimonial Item 1 -->
-        <div class="testimonial-item">
-          <!-- Testimonial Content -->
-          <p>
-            <!-- Quote Icon -->
-            <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-            "Siyamthanda is a passionate ,hardworking individual who giver her full potential for any task given to her ,She is a self-motivated person who always ensures to finish tasks on time.She is very caring person and truly an asset to have in your team."            <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-          </p>
-          <!-- Testimonial Image -->
-          <img src="../assets/img/testimonials/Matthew.png" class="testimonial-img" alt="">
-          <!-- Testimonial Author -->
-          <h3>Matthew Brown</h3>
-          <h4>Lecturer</h4>
-        </div><!-- End Testimonial Item 1 -->
-      </div><!-- End Testimonial Slide 1 -->
+    <!-- Testimonials Slider -->
+    <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+      <div class="swiper-wrapper">
+        <!-- Testimonial Slide 1 -->
+        <div class="swiper-slide">
+          <!-- Testimonial Item 1 -->
+          <div class="testimonial-item">
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+              <p>
+                <!-- Quote Icon -->
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                I had the pleasure of working with Siyamthanda on a coding project, and I must say that I was impressed with her skills and ability to learn on her own. As someone who is her peer, I can tell you that Siya's dedication and passion for coding are unmatched. She is a fast learner, and her attention to detail is impeccable.
+                <!-- End Quote Icon -->
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+            <!-- Testimonial Image -->
+            <img src="../assets/img/testimonials/sima.jpg" class="testimonial-img" alt="">
+            <!-- Testimonial Author -->
+            <div class="testimonial-author">
+              <h3>Simamkele Tancu</h3>
+              <h4>Colleague</h4>
+            </div>
+          </div><!-- End Testimonial Item 1 -->
+        </div><!-- End Testimonial Slide 1 -->
+        
+        <!-- Testimonial Slide 2 -->
+        <div class="swiper-slide">
+          <!-- Testimonial Item 2 -->
+          <div class="testimonial-item">
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+              <p>
+                <!-- Quote Icon -->
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Siyamthanda is a creative and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap, including Git and Github.
+                <!-- End Quote Icon -->
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+            <!-- Testimonial Image -->
+            <img src="../assets/img/testimonials/joel2.jpg" class="testimonial-img" alt="">
+            <!-- Testimonial Author -->
+            <div class="testimonial-author">
+              <h3>Joel Mukanya</h3>
+              <h4>Lecturer</h4>
+            </div>
+          </div><!-- End Testimonial Item 2 -->
+        </div><!-- End Testimonial Slide 2 -->
+        
+        <!-- Testimonial Slide 3 -->
+        <div class="swiper-slide">
+          <!-- Testimonial Item 3 -->
+          <div class="testimonial-item">
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+              <p>
+                <!-- Quote Icon -->
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Siyamthanda is a cheerful and friendly individual who brightens any room. She has a contagious charisma that will never fail to make you smile. She has an outstanding work ethic and an intense focus on tasks and projects, and she will be a valuable member of any team.
+                <!-- End Quote Icon -->
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+            <!-- Testimonial Image -->
+            <img src="../assets/img/testimonials/spati.jpg" class="testimonial-img" alt="">
+            <!-- Testimonial Author -->
+            <div class="testimonial-author">
+              <h3>Sphatimandla Makhanya</h3>
+              <h4>Colleague</h4>
+            </div>
+          </div><!-- End Testimonial Item 3 -->
+        </div><!-- End Testimonial Slide 3 -->
+        
+        <!-- Testimonial Slide 4 -->
+        <div class="swiper-slide">
+          <!-- Testimonial Item 4 -->
+          <div class="testimonial-item">
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+              <p>
+                <!-- Quote Icon -->
+                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                Siyamthanda is a passionate and hardworking individual who gives her full potential to any task given to her. She is a self-motivated person who always ensures to finish tasks on time. She is a very caring person and truly an asset to have in your team.
+                <!-- End Quote Icon -->
+                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+              </p>
+            </div>
+            <!-- Testimonial Image -->
+            <img src="../assets/img/testimonials/Matthew.png" class="testimonial-img" alt="">
+            <!-- Testimonial Author -->
+            <div class="testimonial-author">
+              <h3>Matthew Brown</h3>
+              <h4>Lecturer</h4>
+            </div>
+          </div><!-- End Testimonial Item 4 -->
+        </div><!-- End Testimonial Slide 4 -->
      
-      <!-- Repeat similar structure for other testimonials -->
+        <!-- Repeat similar structure for other testimonials -->
 
-    </div><!-- End Swiper Wrapper -->
+      </div><!-- End Swiper Wrapper -->
 
-    <!-- Pagination -->
-    <div class="swiper-pagination"></div>
-  </div><!-- End Testimonials Slider -->
+      <!-- Pagination -->
+      <div class="swiper-pagination"></div>
+    </div><!-- End Testimonials Slider -->
 
-  <!-- Testimonials Carousel (Optional) -->
-  <div class="owl-carousel testimonials-carousel">
-    <!-- Carousel Items -->
-  </div><!-- End Testimonials Carousel -->
+    <!-- Testimonials Carousel (Optional) -->
+    <div class="owl-carousel testimonials-carousel">
+      <!-- Carousel Items -->
+    </div><!-- End Testimonials Carousel -->
 
-</div><!-- End Testimonials Container -->
+  </div>
 
 
     </section>
@@ -335,6 +346,29 @@ export default {
 </script>
 
 <style scoped>
-/* Your custom styles here */
 
+
+
+
+.testimonial-item {
+  overflow: hidden; /* Hide overflowing content */
+}
+
+.testimonial-content {
+  position: relative; /* Make it a positioning context */
+  max-height: 150px; 
+  overflow: hidden; 
+  padding-bottom:30px;/* Hide overflowing content */
+}
+
+.testimonial-item:hover .testimonial-content {
+  max-height: none; /* Show full content on hover */
+}
+.skill-box {
+  transition: transform 0.2s ease; /* Add transition for smooth scaling */
+}
+
+.skill-box:hover {
+  transform: scale(0.8); /* Scale up the skill box on hover */
+}
 </style>

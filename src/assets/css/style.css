@@ -308,6 +308,9 @@ h6 {
   .navbar ul {
     display: none;
   }
+  .overlay-image{
+    background-size: cover;
+  }
 }
 
 .navbar-mobile {
@@ -458,6 +461,7 @@ section .container {
   margin-bottom: 0;
 }
 
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
@@ -580,8 +584,10 @@ section .container {
 
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  min-height: 100px;
+  max-height: 300px;
+  overflow: hidden;
 }
+
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
@@ -840,6 +846,7 @@ section .container {
   overflow: hidden;
   z-index: 1;
   background: rgba(0, 0, 0, 0.6);
+border: 3px solid;
 }
 
 .portfolio .portfolio-wrap::before {
