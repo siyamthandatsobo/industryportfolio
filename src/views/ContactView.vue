@@ -76,3 +76,24 @@
     </div>
   </section>
 </template>
+<style scoped>
+.container {
+  animation: slide-up 0.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(50px);
+}
+/* .about-me-visible {
+  animation: slide-up 0.5s ease-in-out forwards;
+} */
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+</style>

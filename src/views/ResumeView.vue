@@ -111,4 +111,19 @@ export default {
 .btn:hover {
   background-color: #18d26e;
 }
+.container {
+  animation: slide-up 0.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(50px);
+}
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 </style>

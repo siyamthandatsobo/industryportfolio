@@ -16,7 +16,6 @@
           <li><router-link to="/resume" class="nav-link" exact active-class="active">Education&Experience</router-link></li>
           <li><router-link to="/contact" class="nav-link" exact active-class="active">Contact</router-link></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
 
       <div class="social-links">
@@ -35,6 +34,5 @@
 </template>
 
 <style scoped>
-
 
 </style>

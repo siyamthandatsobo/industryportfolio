@@ -2,7 +2,7 @@
   <div>
     <section id="about" class="about">
       <!-- ======= About Me ======= -->
-      <div class="about-me container">
+      <div class="about-me container" ref="aboutSection">
         <div class="section-title">
           <h2>About</h2>
           <p>Learn more about me</p>
@@ -311,12 +311,9 @@
 </template>
 
 <script>
-
-
-
-
 export default {
   mounted() {
+    // Initialize Swiper
     new Swiper('.testimonials-slider', {
       speed: 600,
       loop: true,
@@ -341,8 +338,12 @@ export default {
         }
       }
     });
+
+   
+  
   }
-};
+}
+ 
 </script>
 
 <style scoped>
@@ -370,5 +371,25 @@ export default {
 
 .skill-box:hover {
   transform: scale(0.8); /* Scale up the skill box on hover */
+}
+
+.about-me {
+  animation: slide-up 0.5s ease-in-out forwards;
+  opacity: 0;
+  transform: translateY(50px);
+}
+.about-me-visible {
+  animation: slide-up 0.5s ease-in-out forwards;
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 </style>

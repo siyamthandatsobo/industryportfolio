@@ -8,14 +8,22 @@
           <li><router-link to="/resume" class="nav-link" exact active-class="active">Education&Experience</router-link></li>
           <li><router-link to="/contact" class="nav-link" exact active-class="active">Contact</router-link></li>
         </ul>
-        <i class="mobile-nav-toggle bi bi-list" @click="toggleNavbar"></i>
+        <i class="mobile-nav-toggle bi bi-list" @click="toggleNavbar()"></i>
     </nav><!-- .navbar -->
     <router-view></router-view>
+    <footer-comp></footer-comp>
+
   </div>
 </template>
 
 <script>
+import footerComp from './components/footer.vue'
+
 export default {
+  components:{
+    footerComp
+    
+  },
   name: 'App',
   data() {
     return {
@@ -29,10 +37,22 @@ export default {
       this.isHomeActive = to.path === '/';
     }
   },
+  created() {
+    // Add navigation guard to close mobile navbar on route change
+    this.$router.beforeEach((to, from, next) => {
+      // Check if mobile navbar is open
+      if (this.isMobileNavOpen) {
+        // Close mobile navbar
+        this.isMobileNavOpen = false;
+      }
+      next();
+    });
+  },
   methods: {
     toggleNavbar() {
-    this.isMobileNavOpen = !this.isMobileNavOpen;
-  }
+      // Toggle mobile navbar
+      this.isMobileNavOpen = !this.isMobileNavOpen;
+    }
   }
 }
 </script>

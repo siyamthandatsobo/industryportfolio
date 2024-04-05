@@ -29,7 +29,7 @@
               <p>Full-stack Ecommerce</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/Capstone" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="App 1"><i class="bi bi-github"></i></a>
-                <a href="https://capstone-8566a.web.app/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://capstone-8566a.web.app/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
               <p>Nodejs</p>
               <div class="portfolio-links">
                 <a href="https://github.com/Anathi9/node-EOMP.git" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="Web 3"><i class="bi bi-github"></i></a>
-                <a href="https://node-eomp-8ce51.web.app/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://node-eomp-8ce51.web.app/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -57,7 +57,7 @@
               <p>JAVASCRIPT</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/To-do-list.git" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="App 2"><i class="bi bi-github"></i></a>
-                <a href="https://siyatodoapp.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://siyatodoapp.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -73,7 +73,7 @@
               <p>HTML AND CSS</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/ecommerce.git" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="Web 2"><i class="bi bi-github"></i></a>
-                <a href="https://empiresiya.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://empiresiya.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -89,7 +89,7 @@
               <p>JAVASCRIPT</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/Calculator.git" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="Card 1"><i class="bi bi-github"></i></a>
-                <a href="https://tsobocalculator.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://tsobocalculator.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -103,7 +103,7 @@
               <p>Javascript</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/temp-conversion.git"  data-gallery="portfolioGallery" class="portfolio-lightbox github" title="Card 3"><i class="bi bi-github"></i></a>
-                <a href="https://tsobotemperatureconversion.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bi bi-link"></i></a>
+                <a href="https://tsobotemperatureconversion.netlify.app" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
