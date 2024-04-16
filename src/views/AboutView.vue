@@ -186,7 +186,7 @@
 
       <!-- ======= Testimonials ======= -->
       <!-- Testimonials Section -->
-      <div class="testimonials container">
+    <div class="testimonials container">
     <div class="section-title">
       <h2>Testimonials</h2>
     </div>
@@ -304,14 +304,26 @@
     </div><!-- End Testimonials Carousel -->
 
   </div>
+  <div class="container justify-content-center">
+    <button class="mb-5  button " v-show="showBackToTop" @click="scrollToTop" id="myBtn" title="Go to top">
+      <i class="bi bi-arrow-up-short"></i>
+    </button>
 
-
-    </section>
   </div>
+  
+</section>
+</div>
+
+
 </template>
 
 <script>
 export default {
+  data() {
+    return {
+      showBackToTop: false
+    };
+  },
   mounted() {
     // Initialize Swiper
     new Swiper('.testimonials-slider', {
@@ -339,9 +351,25 @@ export default {
       }
     });
 
-   
+    window.addEventListener('scroll', this.handleScroll);
+
   
+  },
+  methods: {
+    handleScroll() {
+      this.showBackToTop = window.scrollY > 300;
+    },
+    scrollToTop() {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+      });
+    }
+  },
+  beforeDestroy() {
+    window.removeEventListener('scroll', this.handleScroll);
   }
+  
 }
  
 </script>
@@ -391,5 +419,27 @@ export default {
     opacity: 1;
     transform: translateY(0);
   }
+}
+.button{
+  margin-left: 40%;
+}
+#myBtn {
+
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
 }
 </style>
