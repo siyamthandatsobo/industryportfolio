@@ -176,6 +176,18 @@
           <h3>Git</h3>
         </div>
       </div>
+    
+      <!-- Add similar blocks for other skills -->
+    </div>
+    <div class="col-lg-6">
+      <div class="skill-box">
+        <div class="skill-title">
+          <div class="img">
+            <img src="../assets/img/portfolio/SCRUM.png" alt="icons8-vuejs-128" border="0" width="250px" height="170px">          </div>
+          <h3>Scrum</h3>
+        </div>
+      </div>
+    
       <!-- Add similar blocks for other skills -->
     </div>
   </div>

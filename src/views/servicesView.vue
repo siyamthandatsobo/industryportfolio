@@ -29,7 +29,7 @@
               <p>Full-stack Ecommerce</p>
               <div class="portfolio-links">
                 <a href="https://github.com/siyamthandatsobo/Capstone" data-gallery="portfolioGallery" class="portfolio-lightbox github" title="App 1"><i class="bi bi-github"></i></a>
-                <a href="https://capstone-8566a.web.app/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://capstone-8566a.firebaseapp.com" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
