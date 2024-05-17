@@ -20,9 +20,9 @@
 
       <div class="social-links">
           <!-- GitHub icon -->
-          <a href="https://github.com/siyamthandatsobo" class="github"><i class="bi bi-github"></i></a>
+          <a href="https://github.com/siyamthandatsobo" class="github" target="blank"><i class="bi bi-github"></i> </a>
           <!-- LinkedIn icon -->
-          <a href="https://www.linkedin.com/in/siyamthanda-tsobo-b938bb218/" class="linkedin"><i class="bi bi-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/siyamthanda-tsobo-b938bb218/" class="linkedin" target="blank"><i class="bi bi-linkedin"></i></a>
         </div>
         <div class="overlay-image">
 

@@ -21,8 +21,8 @@
 
       <div class="row portfolio-container">
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app" >
+          <div class="portfolio-wrap" >
             <img src="../assets/img/portfolio/Capstone.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Final Capstone Project</h4>
@@ -33,6 +33,14 @@
               </div>
             </div>
           </div>
+          <div class="tooltip-wrap">
+                <div class="tooltip-content">
+                  <h4>Final Capstone Project</h4>
+                  <p>This is my full-stack Ecommerce project.</p>
+                </div>
+              
+            </div>
+          
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
@@ -124,4 +132,21 @@ img{
   height:250px;
   width:400px;
 }
+.tooltip-wrap {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 10px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    z-index: 999;
+  }
+  
+  .portfolio-wrap:hover .tooltip-wrap {
+    visibility: visible;
+    opacity: 1;
+  }
 </style>
