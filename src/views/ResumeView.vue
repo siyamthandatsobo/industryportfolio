@@ -61,9 +61,31 @@ and enhance my understanding of network infrastructure and cloud services</li>
             </ul>
           </div>
           <div class="resume-item">
+            <h4>Publang LLC Front end Engineer</h4>
+            <h5>June 2024 -July 2024 </h5>
+            <p><em>remote, seattle, USA </em></p>
+            <ul>
+              <li>Develop, test, and maintain scalable web applications using Angular and TypeScript.</li>
+              <li>Implement responsive design to ensure optimal user experience across various devices.</li>
+              <li>Write clean, maintainable, and efficient code following best practices and coding standards.
+              </li>
+              
+            </ul>
+          </div>
+          <div class="resume-item">
+            <h4>Freelancer</h4>
+            <h5>June 2024 -Present</h5>
+            <p><em>remote, seattle, USA </em></p>
+            <ul>
+              <li>Creating and maintaining custom made websites for clients.</li>
+           <a href="https://saul-business-enterprises-org.vercel.app/index.html" target="blank" >saul-business-enterprises-org</a>
+           <!-- <a href="https://drive.google.com/file/d/1baA0IEWAcJy48Ox1Jer-tlrU8oyCnqfh/view?usp=sharing" ></a> -->
+            </ul>
+          </div>
+          <div class="resume-item">
             <h4>Volunteer BACKEND DEVELOPER & SQUAD LEADER</h4>
-            <h5>2024-Present</h5>
-            <p><em>APLENTIFY, LAGOS, NIGERIA</em></p>
+            <h5>June 2024-July 2024</h5>
+            <p><em>APLENTIFY, London, UK</em></p>
             <ul>
               <li>Collaborating with a team of 10+ developers to build Aplentify, a new product from scratch, ensuring efficient backend architecture and robust API design.</li>
               <li>Collaborating in agile development processes, including sprint planning, stand-ups, and retrospectives, to deliver features on schedule.</li>
