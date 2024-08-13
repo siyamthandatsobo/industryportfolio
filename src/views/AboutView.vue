@@ -201,6 +201,17 @@
     
       <!-- Add similar blocks for other skills -->
     </div>
+    <div class="col-lg-6">
+      <div class="skill-box">
+        <div class="skill-title">
+          <div class="img">
+            <img src="../assets/img/portfolio/icons8-wordpress-188.png" alt="icons8-vuejs-128" border="0" width="150px" height="130px">          </div>
+          <h3>Wordpress</h3>
+        </div>
+      </div>
+    
+      <!-- Add similar blocks for other skills -->
+    </div>
   </div>
 </div>
 

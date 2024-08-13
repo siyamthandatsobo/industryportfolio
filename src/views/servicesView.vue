@@ -116,6 +116,19 @@
             </div>
           </div>
         </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="../assets/img/portfolio/sterling.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4>Law Company Landing Page</h4>
+              <p>Wordpress</p>
+              <div class="portfolio-links">
+                <!-- <a href="https://github.com/siyamthandatsobo/temp-conversion.git"  data-gallery="portfolioGallery" class="portfolio-lightbox github" title="Card 3"><i class="bi bi-github"></i></a> -->
+                <a href="https://temp.sg-build.co.za/test-g49hl/" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox btn btn-link" title="Portfolio Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
 
        
 
